@@ -1,5 +1,9 @@
 bibliographies
 ==============
+
+Some links that I find myself frequently sharing with others. Will continue to add over time. For books check out my [GoodReads](http://www.goodreads.com/samkap) account.
+
+
 ## Design
 
 ### RWD

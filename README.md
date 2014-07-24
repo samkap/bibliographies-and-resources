@@ -8,6 +8,9 @@ Some links that I find myself frequently sharing with others. Will continue to a
 
 ### RWD
 
+### Web Typography
+*	[Advanced Web Typography by Elliot Jay Stocks](http://advancedwebtypography.com/)
+
 ### SVGS
 
 ### On Design, beyond aesthetics

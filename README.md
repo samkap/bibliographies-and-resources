@@ -5,7 +5,11 @@ Some links that I find myself frequently sharing with others. Will continue to a
 
 
 ## Design
-
+### Branding 
+* [LogoDesignLove’s brand identity style guides list](http://www.logodesignlove.com/brand-identity-style-guides)
+* [Find Brand Guidelines on the web](http://findguidelin.es/)
+* [Designing Brand Identity - book](http://www.amazon.com/Designing-Brand-Identity-Essential-Branding/dp/1118099206)
+* [The Brand Gap](http://www.amazon.com/The-Brand-Gap-Distance-Business/dp/0321348109/ref=pd_sim_b_1?ie=UTF8&refRID=17C792H5AXJ3AD8EB7ZT)
 ### Content
 * [Content Choreography – Jordan M](http://www.jordanm.co.uk/lab/contentchoreography)
 
